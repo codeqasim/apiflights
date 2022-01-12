@@ -77,7 +77,7 @@
             <div class="CookieNotice_cookie-wrapper__aGOO7"></div>
          </div>
       </div>
-      <div id="__portal__" style="z-index:9999"></div>
+      <!-- <div id="__portal__" style="z-index:9999"></div>
       <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"marqueeAirlines":["American Airlines","United Airlines","Lufthansa","Air Canada","British Airways","easyJet","Vueling Airlines","Iberia","Qantas","Transavia","WestJet","Singapore Airlines","Emirates","Aegean Airlines","LATAM","Cathay Pacific","Hahn Air","Austrian Airlines","Brussels Airlines","LEVEL","Olympic Air","Swiss","Volaris"]},"__N_SSG":true},"page":"/","query":{},"buildId":"0-AU1xAy1AVm1NsIgNaqO","isFallback":false,"gsp":true}</script>
       <script nomodule="" src="chunks/polyfills-6109135745324b00fa53.js"></script>
       <script src="chunks/webpack-52882937eb259c65e3bf.js" async=""></script>
@@ -97,6 +97,6 @@
       <script src="chunks/681c0ffdff4410f4b378b5dd1a755a41ec86a66b.f74e9beb9d9103f926c6.js" async=""></script>
       <script src="chunks/pages/index-d9668ec8ffae2a0ad1d9.js" async=""></script>
       <script src="0-AU1xAy1AVm1NsIgNaqO/_buildManifest.js" async=""></script>
-      <script src="0-AU1xAy1AVm1NsIgNaqO/_ssgManifest.js" async=""></script>
+      <script src="0-AU1xAy1AVm1NsIgNaqO/_ssgManifest.js" async=""></script> -->
    </body>
 </html>
