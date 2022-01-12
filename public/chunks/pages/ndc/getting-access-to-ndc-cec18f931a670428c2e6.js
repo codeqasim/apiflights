@@ -1,2 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[51],{"5n1o":function(n,c,o){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ndc/getting-access-to-ndc",function(){return o("eKyD")}])},eKyD:function(n,c,o){"use strict";o.r(c);var t=o("jg1C"),_=o("uN6E");c.default=function(){return Object(t.jsx)(_.c,{})}}},[["5n1o",0,2,3,1,4,5,6,7,8,9,10,11,12,13,14,16]]]);
-//# sourceMappingURL=getting-access-to-ndc-cec18f931a670428c2e6.js.map

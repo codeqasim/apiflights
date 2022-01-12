@@ -1,2 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[54],{Lnan:function(n,_,t){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ndc/what-is-ndc",function(){return t("OZSX")}])},OZSX:function(n,_,t){"use strict";t.r(_);var u=t("jg1C"),w=t("uN6E");_.default=function(){return Object(u.jsx)(w.g,{})}}},[["Lnan",0,2,3,1,4,5,6,7,8,9,10,11,12,13,14,16]]]);
-//# sourceMappingURL=what-is-ndc-c868bf198944700450a2.js.map
