@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[53],{"2VIP":function(n,o,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ndc/how-does-ndc-compare-to-gds",function(){return _("Tvs2")}])},Tvs2:function(n,o,_){"use strict";_.r(o);var c=_("jg1C"),s=_("uN6E");o.default=function(){return Object(c.jsx)(s.f,{})}}},[["2VIP",0,2,3,1,4,5,6,7,8,9,10,11,12,13,14,16]]]);
+//# sourceMappingURL=how-does-ndc-compare-to-gds-9666e68fc6c6a730ec86.js.map
