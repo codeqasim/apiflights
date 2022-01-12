@@ -9,7 +9,7 @@
                                  <div class="Text_text__MZ693 Text_text--grey-200__3qvOE Text_text--caption__3_prN Text_text--left__BBdcz">take travel further</div>
                                  <h1 class="Text_text__MZ693 Text_text--purple-200__Tu0tA Text_text--d1__3ZGLu Text_text--left__BBdcz">Start selling flights online today</h1>
                               </div>
-                              <p class="Text_text__MZ693 Hero_hero-copy__paragraph__1mhjM Text_text--white__3wIlg Text_text--body__3bgPZ Text_text--left__BBdcz">Leave the complexity of building a travel business behind. Integrate quickly and easily to Duffel&#x27;s state of the art API and take your customers from booking to boarding seamlessly.</p>
+                              <p class="Text_text__MZ693 Hero_hero-copy__paragraph__1mhjM Text_text--white__3wIlg Text_text--body__3bgPZ Text_text--left__BBdcz">Leave the complexity of building a travel business behind. Integrate quickly and easily to API Flight&#x27;s state of the art API and take your customers from booking to boarding seamlessly.</p>
                            </div>
                            <div class="HSpace_h-space__1C_k1 HSpace_h-space--md__1c4B3"><a class="Button_button__20bBc Button_button--large__16S_6" href="https://app.duffel.com/join">Get started</a><a class="Button_button__20bBc Button_button--outline__2mfDt Button_button--large__16S_6" href="contact-us">Contact us</a></div>
                         </div>
