@@ -25,29 +25,29 @@
       <meta name="twitter:title" content="Duffel - The best API to sell flights online"/>
       <meta name="twitter:description" content="We offer a powerful API that enables any travel business to search, book, and sell flights from a network of the world&#x27;s leading airlines in minutes, not months."/>
       <meta name="next-head-count" content="13"/>
-      <link rel="preload" href="_next/static/css/d64bafe6d3202db1dc81.css" as="style"/>
-      <link rel="stylesheet" href="_next/static/css/d64bafe6d3202db1dc81.css" data-n-g=""/>
-      <link rel="preload" href="_next/static/css/63f0dd14068bd41e1cea.css" as="style"/>
-      <link rel="stylesheet" href="_next/static/css/63f0dd14068bd41e1cea.css" data-n-p=""/>
-      <link rel="preload" href="_next/static/css/579d11490fc54338bca7.css" as="style"/>
-      <link rel="stylesheet" href="_next/static/css/579d11490fc54338bca7.css" data-n-p=""/>
+      <link rel="preload" href="public/css/d64bafe6d3202db1dc81.css" as="style"/>
+      <link rel="stylesheet" href="public/css/d64bafe6d3202db1dc81.css" data-n-g=""/>
+      <link rel="preload" href="public/css/63f0dd14068bd41e1cea.css" as="style"/>
+      <link rel="stylesheet" href="public/css/63f0dd14068bd41e1cea.css" data-n-p=""/>
+      <link rel="preload" href="public/css/579d11490fc54338bca7.css" as="style"/>
+      <link rel="stylesheet" href="public/css/579d11490fc54338bca7.css" data-n-p=""/>
       <noscript data-n-css=""></noscript>
-      <link rel="preload" href="_next/static/chunks/webpack-52882937eb259c65e3bf.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/framework.12bfb365494276859e45.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/commons.165f8f5db61a7bbf8009.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/main-b8773e2d8161a8d25346.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/f77afc5b6607175edb9121c6282eafbd040371d0.2a0ef694db0f58783ba5.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/6f06f15e9150fd019e94f5f76cbf0fd0cec35266.e644079ff8300e016e79.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/pages/_app-46f26c0bde2ea514bb5f.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/2edb282b.dec6f40406b4a1c8ea40.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/4e0292bfd51a6216c4edb627ca39fbb9212adf8a.384256951c85e0f17700.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/d6f48a607e553045912f0170078ee8ead4d5cf3e.6bef28c31b932ffe5736.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028.1731999a263d8bac5c32.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028_CSS.3bbe0c84743f3f8d6181.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/58a4f7a3f853763a7e10904fc9ce03f75f868753.59c607a11d5b1b46ee1f.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/f57b8909005f49cea7d88de3097f82075131aa81.da7023727e8e58074e5e.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/681c0ffdff4410f4b378b5dd1a755a41ec86a66b.f74e9beb9d9103f926c6.js" as="script"/>
-      <link rel="preload" href="_next/static/chunks/pages/index-d9668ec8ffae2a0ad1d9.js" as="script"/>
+      <link rel="preload" href="public/chunks/webpack-52882937eb259c65e3bf.js" as="script"/>
+      <link rel="preload" href="public/chunks/framework.12bfb365494276859e45.js" as="script"/>
+      <link rel="preload" href="public/chunks/commons.165f8f5db61a7bbf8009.js" as="script"/>
+      <link rel="preload" href="public/chunks/main-b8773e2d8161a8d25346.js" as="script"/>
+      <link rel="preload" href="public/chunks/f77afc5b6607175edb9121c6282eafbd040371d0.2a0ef694db0f58783ba5.js" as="script"/>
+      <link rel="preload" href="public/chunks/6f06f15e9150fd019e94f5f76cbf0fd0cec35266.e644079ff8300e016e79.js" as="script"/>
+      <link rel="preload" href="public/chunks/pages/_app-46f26c0bde2ea514bb5f.js" as="script"/>
+      <link rel="preload" href="public/chunks/2edb282b.dec6f40406b4a1c8ea40.js" as="script"/>
+      <link rel="preload" href="public/chunks/4e0292bfd51a6216c4edb627ca39fbb9212adf8a.384256951c85e0f17700.js" as="script"/>
+      <link rel="preload" href="public/chunks/d6f48a607e553045912f0170078ee8ead4d5cf3e.6bef28c31b932ffe5736.js" as="script"/>
+      <link rel="preload" href="public/chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028.1731999a263d8bac5c32.js" as="script"/>
+      <link rel="preload" href="public/chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028_CSS.3bbe0c84743f3f8d6181.js" as="script"/>
+      <link rel="preload" href="public/chunks/58a4f7a3f853763a7e10904fc9ce03f75f868753.59c607a11d5b1b46ee1f.js" as="script"/>
+      <link rel="preload" href="public/chunks/f57b8909005f49cea7d88de3097f82075131aa81.da7023727e8e58074e5e.js" as="script"/>
+      <link rel="preload" href="public/chunks/681c0ffdff4410f4b378b5dd1a755a41ec86a66b.f74e9beb9d9103f926c6.js" as="script"/>
+      <link rel="preload" href="public/chunks/pages/index-d9668ec8ffae2a0ad1d9.js" as="script"/>
       <style id="__jsx-4213353732">.ff-icon.jsx-4213353732{display:block;fill:currentColor;-webkit-transition:all 0.3s cubic-bezier(0.25,0.8,0.25,1);transition:all 0.3s cubic-bezier(0.25,0.8,0.25,1);}</style>
       <style id="__jsx-3626727052">.page.jsx-3626727052{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;min-height:100vh;}.page--purple.jsx-3626727052{background-color:#100024;}.page--top-padded.jsx-3626727052{padding-top:2rem;}body{background-color:#FFFFFF;color:#231323;undefined;}</style>
    </head>
