@@ -1,2 +1,0 @@
-_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[52],{H622:function(n,t,u){"use strict";u.r(t);var o=u("jg1C"),_=u("uN6E");t.default=function(){return Object(o.jsx)(_.d,{})}},ugLt:function(n,t,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ndc/history-of-ndc",function(){return u("H622")}])}},[["ugLt",0,2,3,1,4,5,6,7,8,9,10,11,12,13,14,16]]]);
-//# sourceMappingURL=history-of-ndc-d50424749d3f08fc2922.js.map
