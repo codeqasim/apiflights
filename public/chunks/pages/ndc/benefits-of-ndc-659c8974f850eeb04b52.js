@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[50],{UiDG:function(n,i,_){(window.__NEXT_P=window.__NEXT_P||[]).push(["/ndc/benefits-of-ndc",function(){return _("gAQx")}])},gAQx:function(n,i,_){"use strict";_.r(i);var o=_("jg1C"),t=_("uN6E");i.default=function(){return Object(o.jsx)(t.b,{})}}},[["UiDG",0,2,3,1,4,5,6,7,8,9,10,11,12,13,14,16]]]);
+//# sourceMappingURL=benefits-of-ndc-659c8974f850eeb04b52.js.map
