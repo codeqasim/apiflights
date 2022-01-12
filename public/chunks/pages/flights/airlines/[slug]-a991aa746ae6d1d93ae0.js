@@ -1,0 +1,2 @@
+_N_E=(window.webpackJsonp_N_E=window.webpackJsonp_N_E||[]).push([[46],{a3r4:function(n,i,u){"use strict";u.r(i),u.d(i,"__N_SSG",(function(){return t}));var r=u("jg1C"),_=(u("ERkP"),u("uWXS")),t=!0;i.default=function(n){var i=n.airline;return i?Object(r.jsx)(_.a,{airline:i,children:Object(r.jsx)(_.b,{})}):null}},u6Rw:function(n,i,u){(window.__NEXT_P=window.__NEXT_P||[]).push(["/flights/airlines/[slug]",function(){return u("a3r4")}])}},[["u6Rw",0,2,3,1,4,5,6,7,8,9,22]]]);
+//# sourceMappingURL=[slug]-a991aa746ae6d1d93ae0.js.map
