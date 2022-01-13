@@ -20,10 +20,7 @@ if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
       <meta charSet="utf-8"/>
       <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
       <meta http-equiv="content-type" content="text/html;charset=utf-8" />
-      <link rel="icon" type="image/png" sizes="96x96" href="images/favicon/favicon-96x96.png"/>
-      <link rel="icon" type="image/png" sizes="64x64" href="images/favicon/favicon-64x64.png"/>
-      <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png"/>
-      <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
+      <link rel="icon" href="<?=assets?>img/favicon.png">
       <title>API Flights - <?=$title?></title>
       <meta name="description" content="We offer a powerful API that enables any travel business to search, book, and sell flights from a network of the world&#x27;s leading airlines in minutes, not months."/>
       <meta property="og:title" content="API Flights - The best API to sell flights online"/>
