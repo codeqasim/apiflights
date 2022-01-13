@@ -24,22 +24,19 @@ if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
       <link rel="icon" type="image/png" sizes="64x64" href="images/favicon/favicon-64x64.png"/>
       <link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png"/>
       <link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png"/>
-      <title>API Flights - The best API to sell flights online</title>
+      <title>API Flights - <?=$title?></title>
       <meta name="description" content="We offer a powerful API that enables any travel business to search, book, and sell flights from a network of the world&#x27;s leading airlines in minutes, not months."/>
-      <meta property="og:title" content="Duffel - The best API to sell flights online"/>
+      <meta property="og:title" content="API Flights - The best API to sell flights online"/>
       <meta property="og:description" content="We offer a powerful API that enables any travel business to search, book, and sell flights from a network of the world&#x27;s leading airlines in minutes, not months."/>
       <meta property="og:url" content="./"/>
       <meta property="og:image" content="https://duffel.com/images/social/default-og.png"/>
       <meta name="twitter:card" content="summary_large_image"/>
       <meta name="twitter:image" content="https://duffel.com/images/social/default-og.png"/>
-      <meta name="twitter:site" content="@duffelhq"/>
-      <meta name="twitter:title" content="Duffel - The best API to sell flights online"/>
+      <meta name="twitter:site" content="@apiflights"/>
+      <meta name="twitter:title" content="API Flights - The best API to sell flights online"/>
       <meta name="twitter:description" content="We offer a powerful API that enables any travel business to search, book, and sell flights from a network of the world&#x27;s leading airlines in minutes, not months."/>
       <meta name="next-head-count" content="13"/>
       <link rel="stylesheet" href="<?=assets?>css/app.css" />
-    
-      <style id="__jsx-4213353732">.ff-icon.jsx-4213353732{display:block;fill:currentColor;-webkit-transition:all 0.3s cubic-bezier(0.25,0.8,0.25,1);transition:all 0.3s cubic-bezier(0.25,0.8,0.25,1);}</style>
-      <style id="__jsx-3626727052">.page.jsx-3626727052{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-box-pack:justify;-webkit-justify-content:space-between;-ms-flex-pack:justify;justify-content:space-between;min-height:100vh;}.page--purple.jsx-3626727052{background-color:#100024;}.page--top-padded.jsx-3626727052{padding-top:2rem;}body{background-color:#FFFFFF;color:#231323;undefined;}</style>
    </head>
    <body class="overflow-x-hidden">
       <div id="__next">
@@ -72,8 +69,8 @@ if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
             </li>
         </ul>
         <ul class="HSpace_h-space__1C_k1 HSpace_h-space--lg__1G4Eg Header_header__nav--cta__3QY_L">
-            <li><a class="Anchor_anchor__u3Dra Anchor_anchor--white__3vXHo" href="https://app.duffel.com/sign-in">Log in</a></li>
-            <li><a href="https://app.duffel.com/join" class="Header_header-link-button__3hbM0">Sign up</a></li>
+            <li><a class="Anchor_anchor__u3Dra Anchor_anchor--white__3vXHo" href="./signin">Log in</a></li>
+            <li><a href="./signup" class="Header_header-link-button__3hbM0">Sign up</a></li>
         </ul>
         <ul class="HSpace_h-space__1C_k1 HSpace_h-space--md__1c4B3 Header_header__nav--mobile-links__3x3UE">
             <div class="Header_header__nav--mobile-menu-toggle__1UAld">
@@ -83,7 +80,7 @@ if(in_array($_SERVER['REMOTE_ADDR'], $whitelist)){
                 </svg>
             </button>
             </div>
-            <div class="Header_header__nav--single-cta__2fHvD"><a href="https://app.duffel.com/join" class="Header_header-link-button__3hbM0">Sign up</a></div>
+            <div class="Header_header__nav--single-cta__2fHvD"><a href="./signup" class="Header_header-link-button__3hbM0">Sign up</a></div>
         </ul>
         </nav>
         </header>

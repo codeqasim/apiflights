@@ -77,26 +77,5 @@
             <div class="CookieNotice_cookie-wrapper__aGOO7"></div>
          </div>
       </div>
-      <!-- <div id="__portal__" style="z-index:9999"></div>
-      <script id="__NEXT_DATA__" type="application/json">{"props":{"pageProps":{"marqueeAirlines":["American Airlines","United Airlines","Lufthansa","Air Canada","British Airways","easyJet","Vueling Airlines","Iberia","Qantas","Transavia","WestJet","Singapore Airlines","Emirates","Aegean Airlines","LATAM","Cathay Pacific","Hahn Air","Austrian Airlines","Brussels Airlines","LEVEL","Olympic Air","Swiss","Volaris"]},"__N_SSG":true},"page":"/","query":{},"buildId":"0-AU1xAy1AVm1NsIgNaqO","isFallback":false,"gsp":true}</script>
-      <script nomodule="" src="chunks/polyfills-6109135745324b00fa53.js"></script>
-      <script src="chunks/webpack-52882937eb259c65e3bf.js" async=""></script>
-      <script src="chunks/framework.12bfb365494276859e45.js" async=""></script>
-      <script src="chunks/commons.165f8f5db61a7bbf8009.js" async=""></script>
-      <script src="chunks/main-b8773e2d8161a8d25346.js" async=""></script>
-      <script src="chunks/f77afc5b6607175edb9121c6282eafbd040371d0.2a0ef694db0f58783ba5.js" async=""></script>
-      <script src="chunks/6f06f15e9150fd019e94f5f76cbf0fd0cec35266.e644079ff8300e016e79.js" async=""></script>
-      <script src="chunks/pages/_app-46f26c0bde2ea514bb5f.js" async=""></script>
-      <script src="chunks/2edb282b.dec6f40406b4a1c8ea40.js" async=""></script>
-      <script src="chunks/4e0292bfd51a6216c4edb627ca39fbb9212adf8a.384256951c85e0f17700.js" async=""></script>
-      <script src="chunks/d6f48a607e553045912f0170078ee8ead4d5cf3e.6bef28c31b932ffe5736.js" async=""></script>
-      <script src="chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028.1731999a263d8bac5c32.js" async=""></script>
-      <script src="chunks/c4be08f332ab2d5f7c2c7c152722af99b1b33028_CSS.3bbe0c84743f3f8d6181.js" async=""></script>
-      <script src="chunks/58a4f7a3f853763a7e10904fc9ce03f75f868753.59c607a11d5b1b46ee1f.js" async=""></script>
-      <script src="chunks/f57b8909005f49cea7d88de3097f82075131aa81.da7023727e8e58074e5e.js" async=""></script>
-      <script src="chunks/681c0ffdff4410f4b378b5dd1a755a41ec86a66b.f74e9beb9d9103f926c6.js" async=""></script>
-      <script src="chunks/pages/index-d9668ec8ffae2a0ad1d9.js" async=""></script>
-      <script src="0-AU1xAy1AVm1NsIgNaqO/_buildManifest.js" async=""></script>
-      <script src="0-AU1xAy1AVm1NsIgNaqO/_ssgManifest.js" async=""></script> -->
    </body>
 </html>
