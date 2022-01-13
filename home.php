@@ -66,9 +66,9 @@
                      <div class="HSpace_h-space__1C_k1 HSpace_h-space--lg__1G4Eg HSpace_h-space--center__2lEuL HSpace_h-space--align-center__3ayGS CodeExample_code-example__code__1cJWQ">
                         <div class="CodeExample_code-example__controls__SJVBw CodeExample_code-example__controls--desktop__1-Le7">
                            <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az CodeExample_code-example__control--active__1VFJ9"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="ping-200">Search</a></div>
-                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Book</a></div>
-                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Seat Selection</a></div>
-                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Changes</a></div>
+                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Filter</a></div>
+                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Booking</a></div>
+                           <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Cancellation</a></div>
                            <div class="CodeExample_code-example__control__api_link__30vI3">
                               <a class="Anchor_anchor__u3Dra Anchor_anchor--large__1TOgl" href="docs/api/overview/welcome.html">
                                  Learn more about our Flights API
@@ -99,9 +99,9 @@
                      </div>
                      <div class="CodeExample_code-example__controls__SJVBw">
                         <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az CodeExample_code-example__control--active__1VFJ9"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="ping-200">Search</a></div>
-                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Filter</a></div>
-                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Booking</a></div>
-                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Cancellation</a></div>
+                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Book</a></div>
+                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Seat Selection</a></div>
+                        <div class="VSpace_v-space--sm__ESC07 CodeExample_code-example__control__3W7Az"><a class="Anchor_anchor__u3Dra CodeExample_code-example__control__title__mzudO Anchor_anchor--large__1TOgl" href="#" color="grey-300">Changes</a></div>
                         <div class="CodeExample_code-example__control__api_link__30vI3">
                            <a class="Anchor_anchor__u3Dra Anchor_anchor--large__1TOgl" href="docs/api/overview/welcome.html">
                               Learn more about our Flights API
