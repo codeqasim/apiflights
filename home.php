@@ -14,7 +14,7 @@
                            <div class="HSpace_h-space__1C_k1 HSpace_h-space--md__1c4B3"><a class="Button_button__20bBc Button_button--large__16S_6" href="./signup">Get started</a><a class="Button_button__20bBc Button_button--outline__2mfDt Button_button--large__16S_6" href="./contact-us">Contact us</a></div>
                         </div>
                      </div>
-                     <div class="Hero_hero-image__3d_6G"><img src="https://assets.API Flights.com/img/hero-images/home.svg" alt="UI mock-up of complete flight booking experience"/></div>
+                     <div class="Hero_hero-image__3d_6G"><img src="<?=assets?>img/home.svg" alt="UI mock-up of complete flight booking experience"/></div>
                   </div>
                </section>
                <section class="AirlinesRow_airline-row__PJVnP">
@@ -32,14 +32,14 @@
                <section class="InstantAccess_instant-access__OQu0u">
                   <div class="LayoutGrid_layout-grid__40eRT">
                      <div class="CopyAndImageSplitContainer_copy-and-image-split-container__2elXM CopyAndImageSplitContainer_copy-and-image-split-container--large__FmGCF">
-                        <div class="InstantAccess_instant-access__image-container__2dG4C"><img class="InstantAccess_instant-access__image__2fe-T" src="https://assets.API Flights.com/img/instant-access.svg" alt="Illustrative map showing business connecting to iata, arc and airlines across the globe"/></div>
+                        <div class="InstantAccess_instant-access__image-container__2dG4C"><img class="InstantAccess_instant-access__image__2fe-T" src="<?=assets?>img/instant-access.svg" alt="Illustrative map showing business connecting to iata, arc and airlines across the globe"/></div>
                         <div class="VSpace_v-space--lg__2NUNZ InstantAccess_instant-access__copy-container__qp59j">
                            <div class="VSpace_v-space--xl__1tMOz">
                               <div class="VSpace_v-space--xs__20V_H">
                                  <div class="Text_text__MZ693 Text_text--grey-200__3qvOE Text_text--caption__3_prN Text_text--left__BBdcz">INSTANT ACCESS</div>
                                  <h2 class="Text_text__MZ693 Text_text--pink-200__3AnSb Text_text--h1__3TKKL Text_text--left__BBdcz">Skip the bureaucracy</h2>
                               </div>
-                              <div class="InstantAccess_instant-access__image-container--mobile__XK1-y"><img class="InstantAccess_instant-access__image__2fe-T" src="https://assets.API Flights.com/img/instant-access.svg" alt="Illustrative map showing business connecting to iata, arc and airlines across the globe"/></div>
+                              <div class="InstantAccess_instant-access__image-container--mobile__XK1-y"><img class="InstantAccess_instant-access__image__2fe-T" src="<?=assets?>img/instant-access.svg" alt="Illustrative map showing business connecting to iata, arc and airlines across the globe"/></div>
                               <p class="Text_text__MZ693 Text_text--white__3wIlg Text_text--body-large__2BeyV Text_text--left__BBdcz">API Flights takes care of everything you need to start selling flights today. By integrating with our API, you remove the need for ticketing authority and regulatory requirements like local licensing and benefit from our direct relationships with the world&#x27;s best airlines.</p>
                            </div>
                         </div>
@@ -73,7 +73,7 @@
                            </div>
                         </div>
                         <div class="VSpace_v-space--lg__2NUNZ FeatureHighlight_feature-highlight--mobile__K-EMk">
-                           <div class="FeatureHighlight_feature-highlight__image-container__28vOL"><img src="https://assets.API Flights.com/img/home-code-feature-showcase/search.svg" height="300px" width="auto" alt="Search for flights across a network of leading airlines with real-time pricing and availability."/></div>
+                           <div class="FeatureHighlight_feature-highlight__image-container__28vOL"><img src="<?=assets?>img/search.svg" height="300px" width="auto" alt="Search for flights across a network of leading airlines with real-time pricing and availability."/></div>
                            <button class="Button_button__20bBc Button_button--outline__2mfDt Button_button--fill__2ijRd" type="button">View Code<span class="Button_arrow-icon__1DZJJ">  →</span></button>
                         </div>
                         <div class="FeatureHighlight_feature-highlight--desktop__3Yt1F">
@@ -88,7 +88,7 @@
                                  <path d="M15 1H4c-1.1 0-2 .9-2 2v13c0 .55.45 1 1 1s1-.45 1-1V4c0-.55.45-1 1-1h10c.55 0 1-.45 1-1s-.45-1-1-1zm.59 4.59l4.83 4.83c.37.37.58.88.58 1.41V21c0 1.1-.9 2-2 2H7.99C6.89 23 6 22.1 6 21l.01-14c0-1.1.89-2 1.99-2h6.17c.53 0 1.04.21 1.42.59zM15 12h4.5L14 6.5V11c0 .55.45 1 1 1z"></path>
                               </svg>
                            </button>
-                           <button class="FeatureHighlight_feature-highlight__image-container__28vOL"><img src="https://assets.API Flights.com/img/home-code-feature-showcase/search.svg" alt="Search for flights across a network of leading airlines with real-time pricing and availability."/></button>
+                           <button class="FeatureHighlight_feature-highlight__image-container__28vOL"><img src="<?=assets?>img/search.svg" alt="Search for flights across a network of leading airlines with real-time pricing and availability."/></button>
                         </div>
                      </div>
                      <div class="CodeExample_code-example__controls__SJVBw">
@@ -110,14 +110,14 @@
                <section class="MakeMoney_make-money__31fdp">
                   <div class="LayoutGrid_layout-grid__40eRT">
                      <div class="CopyAndImageSplitContainer_copy-and-image-split-container__2elXM CopyAndImageSplitContainer_copy-and-image-split-container--large__FmGCF">
-                        <div class="MakeMoney_make-money__image-container__RS6XY"><img class="MakeMoney_make-money__image__1rT4r" src="https://assets.API Flights.com/img/revenue-growth.svg" alt="Illustrative graph showing revenue growth."/></div>
+                        <div class="MakeMoney_make-money__image-container__RS6XY"><img class="MakeMoney_make-money__image__1rT4r" src="<?=assets?>img/revenue-growth.svg" alt="Illustrative graph showing revenue growth."/></div>
                         <div class="VSpace_v-space--lg__2NUNZ MakeMoney_make-money__copy-container__7vSNF">
                            <div class="VSpace_v-space--xl__1tMOz">
                               <div class="VSpace_v-space--xs__20V_H">
                                  <div class="Text_text__MZ693 Text_text--grey-200__3qvOE Text_text--caption__3_prN Text_text--left__BBdcz">TRANSPARENT TRANSACTIONS</div>
                                  <h2 class="Text_text__MZ693 Text_text--purple-200__Tu0tA Text_text--h1__3TKKL Text_text--left__BBdcz">Monetise travel</h2>
                               </div>
-                              <div class="MakeMoney_make-money__image-container--mobile__2wzrC"><img class="MakeMoney_make-money__image__1rT4r" src="https://assets.API Flights.com/img/revenue-growth.svg" alt="Illustrative graph showing revenue growth."/></div>
+                              <div class="MakeMoney_make-money__image-container--mobile__2wzrC"><img class="MakeMoney_make-money__image__1rT4r" src="<?=assets?>img/revenue-growth.svg" alt="Illustrative graph showing revenue growth."/></div>
                               <p class="Text_text__MZ693 Text_text--white__3wIlg Text_text--body-large__2BeyV Text_text--left__BBdcz">Our seamless payments solution means there is no longer a need for capital upfront or bank guarantees. Add mark up to your offering and charge your customers instantly through our API. The dashboard allows you to reconcile your accounts quickly and see how much you earn on each route.</p>
                            </div>
                         </div>
@@ -132,7 +132,7 @@
                            <h2 class="Text_text__MZ693 Text_text--pink-200__3AnSb Text_text--h1__3TKKL Text_text--left__BBdcz">Become a success story</h2>
                         </div>
                         <div class="VSpace_v-space--3xl__1__75">
-                           <div class="SuccessStories_success-story__card__3IK3E" style="background-image:url(https://assets.API Flights.com/img/metamorphosis-graphics/sonic-white3.svg)">
+                           <div class="SuccessStories_success-story__card__3IK3E" style="background-image:url(<?=assets?>img/sonic-white3.svg)">
                               <div class="VSpace_v-space--2xl__2-8xE SuccessStories_success-story__copy__e528a">
                                  <p class="Text_text__MZ693 Text_text--white__3wIlg Text_text--body-large__2BeyV Text_text--left__BBdcz">Ulysse thrives by delivering its loyal customer base what they crave — a simple, sensible travel booking experience. The fast-rising online travel agent (OTA) has its roots in customer empathy and careful engineering.</p>
                                  <a class="Anchor_anchor__u3Dra Anchor_anchor--large__1TOgl" target="_blank" rel="noopener noreferrer" href="blog/ulysse-uses-API Flights-to-put-customers-first">
@@ -142,9 +142,9 @@
                                     </span>
                                  </a>
                               </div>
-                              <div class="SuccessStories_success-story-card__image__2tQ6p"><img height="32px" src="https://assets.API Flights.com/img/success-stories-logos/ulysse.svg" alt="Logo for Ulysse"/></div>
+                              <div class="SuccessStories_success-story-card__image__2tQ6p"><img height="32px" src="<?=assets?>img/ulysse.svg" alt="Logo for Ulysse"/></div>
                            </div>
-                           <div class="SuccessStories_logos-container__3k1tx"><button><img class="SuccessStories_active__1m93P" src="https://assets.API Flights.com/img/success-stories-logos/ulysse.svg" alt="Logo for Ulysse"/></button><button><img class="" src="https://assets.API Flights.com/img/success-stories-logos/bizaway.svg" alt="Logo for Bizaway"/></button><button><img class="" src="https://assets.API Flights.com/img/success-stories-logos/milla.svg" alt="Logo for Milla travel"/></button><button><img class="" src="https://assets.API Flights.com/img/success-stories-logos/alternative.svg" alt="Logo for Alternative Airlines"/></button><button><img class="" src="https://assets.API Flights.com/img/success-stories-logos/worldia.svg" alt="Logo for Worldia"/></button></div>
+                           <div class="SuccessStories_logos-container__3k1tx"><button><img class="SuccessStories_active__1m93P" src="<?=assets?>img/ulysse.svg" alt="Logo for Ulysse"/></button><button><img class="" src="<?=assets?>img/bizaway.svg" alt="Logo for Bizaway"/></button><button><img class="" src="<?=assets?>img/milla.svg" alt="Logo for Milla travel"/></button><button><img class="" src="<?=assets?>img/alternative.svg" alt="Logo for Alternative Airlines"/></button><button><img class="" src="<?=assets?>img/worldia.svg" alt="Logo for Worldia"/></button></div>
                         </div>
                      </div>
                   </div>
@@ -156,7 +156,7 @@
                            <p class="Text_text__MZ693 Text_text--purple-900__rqSRB Text_text--h2__3Ghf7 Text_text--left__BBdcz">Try it out on your own for free today</p>
                            <p class="Text_text__MZ693 Text_text--purple-900__rqSRB Text_text--body-large__2BeyV Text_text--left__BBdcz">Sign up and start selling flights</p>
                         </div>
-                        <div class="HSpace_h-space__1C_k1 HSpace_h-space--md__1c4B3 HSpace_h-space--align-center__3ayGS StartNowBanner_start-now__buttons-container__1gSln"><a class="Button_button__20bBc Button_button--dark__3Sla1 Button_button--medium__3XYQZ" href="https://app.API Flights.com/join">Start now</a><a class="Button_button__20bBc Button_button--outline__2mfDt Button_button--dark__3Sla1 Button_button--medium__3XYQZ" href="contact-us">Contact us</a></div>
+                        <div class="HSpace_h-space__1C_k1 HSpace_h-space--md__1c4B3 HSpace_h-space--align-center__3ayGS StartNowBanner_start-now__buttons-container__1gSln"><a class="Button_button__20bBc Button_button--dark__3Sla1 Button_button--medium__3XYQZ" href="./signup">Start now</a><a class="Button_button__20bBc Button_button--outline__2mfDt Button_button--dark__3Sla1 Button_button--medium__3XYQZ" href="contact-us">Contact us</a></div>
                      </div>
                   </div>
                </section>
