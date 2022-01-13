@@ -1,10 +1,10 @@
 <?php 
 $title = "Contact Us";
-include "header.php";
+include "../header.php";
 ?>
 
 
+page
 
 
-
-<?php include "footer.php"; ?>
+<?php include "../footer.php"; ?>
